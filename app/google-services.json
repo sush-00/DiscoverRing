@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583910275959",
+    "project_id": "discoverring-6283f",
+    "storage_bucket": "discoverring-6283f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583910275959:android:32b8ddeffadc7b1cd6bf72",
+        "android_client_info": {
+          "package_name": "com.example.discoverring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXO8yA-vADfKwQuMyAtoJV5I2pPqThsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
